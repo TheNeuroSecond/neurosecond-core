@@ -1,0 +1,1 @@
+{\n  "name": "neurosecond-core",\n  "version": "1.0.0",\n  "description": "Core functionalities for the NeuroSecond project",\n  "main": "index.js",\n  "repository": {\n    "type": "git",\n    "url": "https://github.com/TheNeuroSecond/neurosecond-core.git"\n  },\n  "author": "mohdnadim1",\n  "license": "MIT"\n}
